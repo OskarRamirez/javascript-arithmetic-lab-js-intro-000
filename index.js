@@ -27,4 +27,4 @@ function makeInt(n) {
 return n;
 }
 
-makeInt(0,10);
+makeInt(10);
